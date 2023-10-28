@@ -1,4 +1,4 @@
 # mondorian
 mondorian painting with css
 
-css tanulás/gyakorlásképpen készített kisebb projekt
+This is a small project that I created for practicing CSS.
